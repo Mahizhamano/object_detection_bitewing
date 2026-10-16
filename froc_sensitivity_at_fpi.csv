@@ -1,0 +1,7 @@
+Model,Class,Sens @ <= 0.25 FP/img,Sens @ <= 0.5 FP/img,Sens @ <= 1.0 FP/img,Sens @ <= 2.0 FP/img
+YOLOv8s,Overall,0.7295,0.8033,0.8525,0.8525
+YOLOv8s + YOLOv11s,Overall,0.7623,0.8279,0.8852,0.8934
+YOLOv8s,dentin-caries,0.8333,0.8333,0.8485,0.8939
+YOLOv8s + YOLOv11s,dentin-caries,0.8485,0.8485,0.8788,0.9091
+YOLOv8s,enamel-caries,0.6786,0.8393,0.875,0.8929
+YOLOv8s + YOLOv11s,enamel-caries,0.7857,0.8571,0.9464,0.9643
